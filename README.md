@@ -1,17 +1,15 @@
+
+
+
 # NEAR RUST PROJECT
-## H2
-### H3
+
 
 ****
 
-**italicized text**
+**test app**
 
->blockquote
+>TECH STACK
 
-1. First item
-2. Second item
-3. Third Item
+* Rust
+* Javascript
 
-- First Item
-- Second Item
-- Third item
